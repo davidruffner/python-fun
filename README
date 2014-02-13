@@ -1,0 +1,12 @@
+Author: David Ruffner
+2/13/2014
+
+chimp5.py
+
+Description: A simple game where you try to bounce a chimp and keep 
+    him off of the floor. To play you use the arrow keys to move the
+    fist and you hit the chimp up by hitting spacebar.
+
+    To run type in the terminal in the directory with the chimp5.py file,
+   
+    python chimp5.py
